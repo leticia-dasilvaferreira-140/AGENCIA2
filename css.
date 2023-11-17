@@ -1,0 +1,84 @@
+.frame-1 * {
+    box-sizing: border-box;
+  }
+  .frame-1 {
+    background: linear-gradient(
+      180deg,
+      rgba(244, 117, 149, 1) 2.083333395421505%,
+      rgba(245, 5, 182, 1) 56.25%,
+      rgba(47, 20, 87, 1) 100%
+    );
+    width: 1712px;
+    height: 1075px;
+    position: relative;
+    overflow: hidden;
+  }
+  .full-of-charm {
+    color: #ffffff;
+    text-align: left;
+    font: 400 128px "JacquesFrancoisShadow-Regular", sans-serif;
+    position: absolute;
+    left: 398px;
+    top: 49px;
+    width: 1164px;
+    height: 168px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .f {
+    color: #ffffff;
+    text-align: left;
+    font: 400 128px "Italiana-Regular", sans-serif;
+    position: absolute;
+    left: 138px;
+    top: 49px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .c {
+    color: #ffffff;
+    text-align: left;
+    font: 400 128px "Italiana-Regular", sans-serif;
+    position: absolute;
+    left: 83px;
+    top: 87px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .instagram-removebg-preview-2-1 {
+    border-radius: 112.5px;
+    width: 294px;
+    height: 293px;
+    position: absolute;
+    left: 170px;
+    top: 441px;
+  }
+  .imagem-removebg-preview-1 {
+    width: 470px;
+    height: 449px;
+    position: absolute;
+    left: 646px;
+    top: 328px;
+  }
+  .sobre-n-s {
+    color: #ffffff;
+    text-align: left;
+    font: 400 48px "Italiana-Regular", sans-serif;
+    position: absolute;
+    left: 784px;
+    top: 665px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .model-removebg-preview-1 {
+    width: 225px;
+    height: 225px;
+    position: absolute;
+    left: 1234px;
+    top: 485px;
+  }
+  
